@@ -9,6 +9,7 @@
 <head>
     <title>Tech Fest Details</title>
     <style>
+        body { background-color: #0000}
         body { font-family: Arial, sans-serif; }
         table { border-collapse: collapse; width: 60%; margin-bottom: 20px; }
         th, td { border: 1px solid black; padding: 8px; text-align: left; }
