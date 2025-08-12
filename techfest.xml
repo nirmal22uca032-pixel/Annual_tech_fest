@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="techfest.xsl"?>
+<TechFest>
+    <EventName>Annual Tech Fest</EventName>
+    <DateTime>2025-09-15 10:00 AM</DateTime>
+    <Venue>Main Auditorium</Venue>
+    <Coordinator>
+        <Name>John Smith</Name>
+        <Contact>9876543210</Contact>
+    </Coordinator>
+    <Competitions>
+        <Competition>
+            <Name>Code Battle</Name>
+            <Category>Programming</Category>
+            <Prize>5000</Prize>
+        </Competition>
+        <Competition>
+            <Name>Robo Race</Name>
+            <Category>Robotics</Category>
+            <Prize>7000</Prize>
+        </Competition>
+        <Competition>
+            <Name>Web Wizard</Name>
+            <Category>Web Development</Category>
+            <Prize>6000</Prize>
+        </Competition>
+    </Competitions>
+    <Sponsors>
+        <Sponsor>
+            <Name>TechCorp</Name>
+            <Type>Gold</Type>
+        </Sponsor>
+        <Sponsor>
+            <Name>InnoSoft</Name>
+            <Type>Silver</Type>
+        </Sponsor>
+        <Sponsor>
+            <Name>CodeMasters</Name>
+            <Type>Bronze</Type>
+        </Sponsor>
+    </Sponsors>
+</TechFest>
