@@ -1,32 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tech_style.xsl"?>
 <techFest>
-  <eventName>Innovate 2024</eventName>
-  <eventDate>2024-10-25</eventDate>
-  <eventTime>09:00 AM</eventTime>
-  <venue>College Auditorium</venue>
-  <coordinator>
-    <name>Jane Doe</name>
-    <contact>+919876543210</contact>
-  </coordinator>
-  <competitions>
-    <competition>
-      <name>Code Sprint</name>
-      <category>Programming</category>
-      <prizeAmount>10000</prizeAmount>
-    </competition>
-    <competition>
-      <name>Robo Wars</name>
-      <category>Robotics</category>
-      <prizeAmount>25000</prizeAmount>
-    </competition>
-  </competitions>
-  <sponsors>
-    <sponsor type="Gold">
-      <name>Tech Giants Inc.</name>
-    </sponsor>
-    <sponsor type="Silver">
-      <name>Innovate Solutions</name>
-    </sponsor>
-  </sponsors>
 </techFest>
